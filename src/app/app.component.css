@@ -1,0 +1,29 @@
+
+
+td {
+    background:lightyellow;
+    padding: 5px !important ;
+}
+th{
+    background : brown;
+    color: white;
+    padding: 5px !important;
+
+}
+input{
+    height:20px;
+    margin-left: 10px;
+       
+    
+}
+button{
+    height: 25px;
+    width:80px;
+    background: brown;
+    border: none;
+    cursor: pointer;
+    color:white;
+    font:bold;
+    
+    
+}

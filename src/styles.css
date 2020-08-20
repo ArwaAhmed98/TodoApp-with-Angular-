@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    font-family : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: white;
+
+}
+*{
+    margin: 0px;
+    padding:0px;
+}
+.container{
+    margin: auto !important ;
+    text-align: center;
+    justify-content: center;
+}
